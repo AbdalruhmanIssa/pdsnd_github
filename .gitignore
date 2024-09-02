@@ -1,4 +1,9 @@
 .github/**
+<<<<<<< HEAD
 chicago.csv
 new_york_csv.csv
 washigton.csv
+||||||| 06513a5
+=======
+chicgo.csv
+>>>>>>> refactor

@@ -1,6 +1,12 @@
 # US Bikeshare Data Analysis Project
 
+
 This project is part of the **Programming for Data Science with Python** course by Udacity. The purpose of the project is to explore data related to bike share systems in three major U.S. cities: Chicago, New York City, and Washington, DC. The project is implemented in Python, using libraries such as Pandas and NumPy.
+||||||| 06513a5
+
+### Date created
+on September second 2024.
+
 
 ## Project Overview
 

@@ -57,3 +57,16 @@ To run the project, you'll need:
 You can install the required libraries using pip:
 ```bash
 pip install pandas numpy
+
+## Limitations
+
+While this project provides valuable insights into bikeshare usage, it has some limitations:
+- The analysis is limited to the data provided by the bikeshare companies for the selected cities and may not be representative of the entire population's usage patterns.
+- Data is only available for certain time periods and does not cover all months or years.
+- Some datasets, like Washington's, do not include gender or birth year information, limiting demographic analysis.
+
+## Possible Future Improvements
+
+- **Incorporate Additional Data:** Expanding the dataset to include more cities or data from different years could provide a more comprehensive analysis.
+- **Advanced Analytics:** Implement machine learning models to predict bikeshare usage patterns based on weather, day of the week, or other factors.
+- **Interactive Visualizations:** Develop interactive dashboards to allow users to explore the data more intuitively.
